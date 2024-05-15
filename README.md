@@ -10,7 +10,7 @@
   
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src="https://github.com/ShayZhu1024/TLSAN/blob/main/images/coding.gif" />
+    <img src="https://github.com/ShayZhu1024/ShayZhu1024.github.io/blob/main/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -18,6 +18,6 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <img alt="github-snake" src="https://github.com/ShayZhu1024/TLSAN/blob/main/images/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/ShayZhu1024/ShayZhu1024.github.io/blob/main/images/github-contribution-grid-snake.svg" />
   </picture>
 </div>
